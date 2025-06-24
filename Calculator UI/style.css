@@ -19,6 +19,8 @@ body {
     margin: 0 auto;
     color: #f4f4f4;
     padding: 1rem;
+    font-weight: bold;
+    border-radius: 1rem;
 }
 
 .calc-display {
@@ -80,4 +82,8 @@ body {
 
 .addition {
     grid-row: span 2;
+}
+
+.btn-num{
+    background-color: #575656;
 }
